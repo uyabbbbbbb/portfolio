@@ -429,7 +429,7 @@ $username = $_SESSION["username"] ?? "";
 <footer class="footer">
 
     <p>
-        © 2026 Bayu. All Rights Reserved.
+        nothing
     </p>
 
 </footer>
